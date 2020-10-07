@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="djangotutorial" uuid="4c0c6081-9986-43af-aa09-10fe4abf68a7">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>Data source for django tutorial</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://django.cboth5twbrgo.us-east-1.rds.amazonaws.com:5432/djangotutorial</jdbc-url>
+    </data-source>
+  </component>
+</project>
